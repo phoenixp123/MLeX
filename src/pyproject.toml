@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mlex-python"
-version = "0.0.2"
+version = "0.0.5"
 authors = [
   { name="Phoenix Pagan", email="phoenix.pgn@gmail.com" },
 ]
@@ -20,7 +20,6 @@ classifiers = [
 dependencies = [
     "matplotlib",
     "datetime",
-    "json",
 ]
 
 [project.urls]
