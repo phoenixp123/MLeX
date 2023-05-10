@@ -21,7 +21,6 @@ dependencies = [
     "matplotlib",
     "datetime",
     "json",
-    "os",
 ]
 
 [project.urls]
